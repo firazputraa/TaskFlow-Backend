@@ -26,7 +26,7 @@ Membuat akun pengguna baru.
 Login dengan akun pengguna
 - **Method:** `POST`
 - **Endpoint:** `/user/login`
-- - **Body (JSON):**
+- **Body (JSON):**
   ```json
   {
     "email": "firaz@example.com",
