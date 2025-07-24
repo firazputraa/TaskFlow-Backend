@@ -14,7 +14,7 @@ Endpoint untuk registrasi dan login pengguna.
 Membuat akun pengguna baru.
 
 - **Method:** `POST`
-- **Endpoint:** `/user/register`
+- **Endpoint:** `/users/register`
 - **Body (JSON):**
   ```json
   {
@@ -25,7 +25,7 @@ Membuat akun pengguna baru.
 
 Login dengan akun pengguna
 - **Method:** `POST`
-- **Endpoint:** `/user/login`
+- **Endpoint:** `/users/login`
 - **Body (JSON):**
   ```json
   {
